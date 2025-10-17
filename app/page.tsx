@@ -93,10 +93,10 @@ export default function Home() {
           {/* Success Indicator */}
           <div className="bg-white/80 backdrop-blur-sm rounded-xl shadow-lg p-8 max-w-md mx-auto">
             <div className="text-center">
-              <div className="text-green-600 text-4xl mb-4">✅</div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-2">
+              {/* <div className="text-green-600 text-4xl mb-4">✅</div> */}
+              {/* <h3 className="text-2xl font-bold text-gray-900 mb-2">
                 Next.js System Running!
-              </h3>
+              </h3> */}
               <p className="text-gray-600 mb-4">
                 Complete healthcare management system for India
               </p>
